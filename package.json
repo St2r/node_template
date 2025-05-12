@@ -7,7 +7,7 @@
     "start": "node --experimental-transform-types ./src/index.ts"
   },
   "devDependencies": {
-    "@remix-run/eslint-config": "^2.16.5",
+    "@remix-run/eslint-config": "^2.16.6",
     "@types/node": "^22.11.18",
     "eslint": "^9.26.0",
     "prettier": "^3.5.3",
